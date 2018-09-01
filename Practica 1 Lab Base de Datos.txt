@@ -1,0 +1,15 @@
+Crear base de datos con 5 tablas que incluyan:
+
+*Int
+*Varchar
+*Image
+*Datetime
+*Money
+*Decimal
+
+Todas:
+*PK (primal key)
+*Index (indice)
+
+1 Restriccion
+1 columna computada
