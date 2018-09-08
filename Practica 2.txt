@@ -1,2 +1,0 @@
-Modelo entidad relación de la base de datos (subir en github en modo de imagen)
-En base al proyecto de clase normal. (La que vamos a entregar como avance para el profe Atilano)
