@@ -1,0 +1,3 @@
+En base al diagrama que hicimos las ultimas dos clases, utilizaremos el que corregimos durante
+la clase pasada para empezar la elaboracion de nuestra base de datos con las debidas propiedades asignadas
+en nuestro diagrama, ya sean las llaves primarias, foraneas, triggers, etc.
